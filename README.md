@@ -4,7 +4,7 @@
 
 在已安裝 OTA 功能的時鐘上連接 Wi-Fi，進入「設定 → 韌體更新 → 檢查更新」，有新版時選「下載並更新」。
 
-更新來源：https://github.com/jimychsu/still-shizhan-clock-updates/releases/latest/download/latest.json
+更新來源：https://raw.githubusercontent.com/jimychsu/still-shizhan-clock-updates/main/firmware/latest.json
 
 每個 Release 提供應用程式 bin、RSA 簽章版本資訊 latest.json 與 SHA256SUMS.txt。首次安裝需 USB 及相符的分割表；不要把應用程式 bin 當成完整 Flash 映像。
 
