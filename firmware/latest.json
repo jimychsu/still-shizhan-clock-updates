@@ -1,4 +1,4 @@
 {
-  "payload": "{\"board\":\"still-shizhan-esp32s3\",\"version\":\"0.3.2\",\"build\":302,\"size\":6015184,\"sha256\":\"8b2a26064aad5870ffb238368b3680fedf77ed10b6b32f34d73bd372f389a1f4\",\"url\":\"https://github.com/jimychsu/still-shizhan-clock-updates/releases/download/v0.3.2/still-shizhan-v0.3.2.bin\"}",
-  "signature": "EbNABYDtkX28WSoNrX9/74ZbUU6EbokJFgqZD9G6f548riYNtQcEIdgm3zumEIZd5KhG2UqL1fTaUj0OdaewrJCGTelHtdXb2zccHWH49r6T+IQjYDazvVORnE63y2q9xqnuTr/rJ9hSE9bHI7IZL1q+4mwGivtjvGfhPr1vtozfVZ5rEMVgjew7aQorvIJSrLUMaT/PXqbsb7ua9Rtm3uGZKQwAGJJzHhxsddtEinuhaPkTiSk/q7qwGoCP0Fac/4wTZgjsw+Ek071XyFjXu0DatHI5iUvFuZlIy3ntJ64AO0vQEqlgzmJ4R4JS7HNsxdkJnrPRU0fs/uT1f2RyBg=="
+  "payload": "{\"board\":\"still-shizhan-esp32s3\",\"version\":\"0.3.3\",\"build\":303,\"size\":6015248,\"sha256\":\"f671d38496554f2b1e3c2b4184f1921c3a61e5b6dc7caf345585986f69d17797\",\"url\":\"https://github.com/jimychsu/still-shizhan-clock-updates/releases/download/v0.3.3/still-shizhan-v0.3.3.bin\"}",
+  "signature": "a/1ErFb8J+GC/889CuP+cKWMbhBXXJLQzN+VrhylHPzPR5jVbzFAwWMEF9Nf0imvRXrrXZtA4WbQPxzLZ1ybbK3a0vOsHBjN/K+xPdEDyK9MVPJN/UKyRgt05gPRP9wU7xsswik+K1mIF8L6lhehYZHujMQctmerVDildf/D7EKY1xBs5xhy4IFTjupO6rKjeHUy5xhO+CDsPqtLrSuqXupBuVxCGMcYcATFsY8lpTMm7avtm2uwpxrHsmqqp1nfGehRDIt8WBdaB8lOkR3Tj48bSmLR36pzyxiAvGYjPu15rn01XNw7sVVLqRiOCHq8603RlRbJBIQl8uoKNgnmJw=="
 }
